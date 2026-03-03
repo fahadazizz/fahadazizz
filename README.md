@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<pre align="center">
+  I'm Fahad Aziz, a BS Computer Science student at NUTECH.
+<a href="https://linkedin.com/in/fahad-aziz-khan">LinkedIn</a> / <a href="https://www.instagram.com/calmefadii">Instagram</a> 
+</pre>
+
 <!--
 **fahadazizz/fahadazizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
