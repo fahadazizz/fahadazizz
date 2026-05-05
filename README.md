@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <pre align="center">
-  I'm Fahad Aziz, a BS Computer Science student at NUTECH.
+  I'm Fahad Aziz, a Computer Science student at NUTECH.
 <a href="https://linkedin.com/in/fahad-aziz-khan">LinkedIn</a> / <a href="https://www.instagram.com/calmefadii">Instagram</a> 
 </pre>
 
